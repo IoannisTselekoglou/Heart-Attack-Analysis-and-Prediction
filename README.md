@@ -43,3 +43,4 @@ pip install scikit-learn
 ## License
 - [NumPy](https://numpy.org): A open-source library for numerical computing in Python.
 - [Matplotlib](https://matplotlib.org): A open-source plotting library for Python. License.
+- [Pandas](https://pandas.pydata.org/): A open-source library for Data Science.
