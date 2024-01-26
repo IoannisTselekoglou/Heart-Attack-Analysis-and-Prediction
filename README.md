@@ -16,7 +16,7 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 
 ## Dataset
 
-The dataset is sourced from [Kaggle](https://www.kaggle.com/your-username/your-dataset-name) and includes key features such as:
+The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data) and includes key features such as:
 
 - **Age**: Age of the patient [years]
 - **Sex**: Sex of the patient [M: Male, F: Female]
@@ -31,7 +31,6 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/your-username/your-d
 - **ST_Slope**: The slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
 - **HeartDisease**: Output class [1: heart disease, 0: Normal]
 
-For a comprehensive understanding, refer to the complete [attribute information](#).
 
 ## Notebook
 
